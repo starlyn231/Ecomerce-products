@@ -16,10 +16,10 @@
   }
 
 .productListEdit{
-    border: none;
-    border-radius: 10px;
+   width: 70px;
+    border-radius: 12px;
     padding: 5px 10px;
-    background-color: #3bb077;
+    background-color: teal;
     color: white;
     cursor: pointer;
     margin-right: 20px;
